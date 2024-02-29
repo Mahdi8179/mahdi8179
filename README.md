@@ -7,11 +7,15 @@
 
 - 🌱 I’m currently learning **Python and Django Freamwork**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mahdi8179](https://github.com/Mahdi8179)
-
 - 💬 Ask me about **Python, TeleBot**
 
 - 📫 How to reach me **mahdinaderlou.MN@gmail.com**
+
+- 👨‍💻 All of my projects are available at:
+
+<a href="https://github.com/https://github.com/Mahdi8179" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
