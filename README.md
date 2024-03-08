@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdi8179&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi8179" /> </p>
 
-- 🌱 I’m currently learning **Python and Django Freamwork**
+- 🌱 I’m currently learning **Django Freamwork, HTML, CSS & JavaScript**
 
 - 💬 Ask me about **Python, TeleBot**
 
