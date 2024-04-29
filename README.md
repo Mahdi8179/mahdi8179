@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdi8179&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi8179" /> </p>
 
-- 🌱 I’m currently learning ** HTML, CSS & JavaScript**
+- 🌱 I’m currently learning HTML, CSS & JavaScript
 
-- 💬 Ask me about **HTML, CSS & Python*
+- 💬 Ask me about HTML, CSS & Python
 
-- 📫 How to reach me **mahdinaderlou.MN@gmail.com**
+- 📫 How to reach me mahdinaderlou.MN@gmail.com
 
 - 👨‍💻 All of my projects are available at:
 
