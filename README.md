@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Angular<br><br>💬 Ask me about HTML, CSS, JavaScript, TypeScript & Python<br><br>📫 How to reach me mahdinaderlou.MN@gmail.com<br><br>👨‍💻 All of my projects are available at:
+🌱 I’m currently learning React<br><br>💬 Ask me about HTML, CSS, JavaScript, Python, TypeScript & Angular<br><br>📫 How to reach me mahdinaderlou.MN@gmail.com<br><br>👨‍💻 All of my projects are available at:
 
 <a href="https://github.com/https://github.com/Mahdi8179" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
